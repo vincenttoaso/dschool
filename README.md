@@ -1,3 +1,2 @@
-# dschool
+# data school
 
-this is an intentional misspeleed word
